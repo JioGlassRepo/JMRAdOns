@@ -1,0 +1,45 @@
+{
+  "name": "com.jmr.cameraprop",
+  "version": "1.1.18",
+  "displayName": "JMR Add Ons",
+  "description": "This package lets you to add some addons",
+  "unity": "2019.4",
+  "type":"tool",
+  "keywords": [
+    "JMR",
+    "Camera",
+	"Skybox",
+	"Controller"
+  ],
+  "registry": "https://github.com/VirendraVerma1/CameraProperties.git",
+  "author": {
+    "name": "JMR",
+    "url": "https://tesseract.in/"
+  },
+  "repository": {
+    "url": "https://github.com/VirendraVerma1/CameraProperties.git",
+    "type": "git"
+  },
+  "dependencies":
+   {
+        "com.jmr.camerapropp": "https://github.com/VirendraVerma1/CameraProperties.git?path=/Samples~/JMRAdons/CameraProperties"
+   }
+  "samples": [
+    {
+      "displayName": "Camera Properties",
+      "description": "Shows how to implement a custom composite binding.",
+      "path": "Samples~/JMRAdons/CameraProperties"
+    }
+	,{
+      "displayName": "Controller Properties",
+      "description": "Shows how to implement a custom composite binding.",
+      "path": "Samples~/JMRAdons/ControllerProperties"
+    }
+	,{
+      "displayName": "Headset Properties",
+      "description": "Shows how to implement a custom composite binding.",
+      "path": "Samples~/JMRAdons/HeadProperties"
+    }
+	
+  ]
+}
