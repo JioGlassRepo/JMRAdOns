@@ -1,6 +1,6 @@
 {
-  "name": "com.jmr.cameraprop",
-  "version": "1.1.18",
+  "name": "com.jmr.adons",
+  "version": "1.0.1",
   "displayName": "JMR Add Ons",
   "description": "This package lets you to add some addons",
   "unity": "2019.4",
@@ -11,18 +11,18 @@
 	"Skybox",
 	"Controller"
   ],
-  "registry": "https://github.com/VirendraVerma1/CameraProperties.git",
+  "registry": "https://github.com/JioGlassRepo/JMRAdOns/tree/dev.git",
   "author": {
     "name": "JMR",
     "url": "https://tesseract.in/"
   },
   "repository": {
-    "url": "https://github.com/VirendraVerma1/CameraProperties.git",
+    "url": "https://github.com/JioGlassRepo/JMRAdOns/tree/dev.git",
     "type": "git"
   },
   "dependencies":
    {
-        "com.jmr.camerapropp": "https://github.com/VirendraVerma1/CameraProperties.git?path=/Samples~/JMRAdons/CameraProperties"
+        "com.jmr.camerapropp": "https://github.com/JioGlassRepo/JMRAdOns/tree/dev.git?path=/Samples~/JMRAdons/CameraProperties"
    }
   "samples": [
     {

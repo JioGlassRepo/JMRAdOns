@@ -1,22 +1,19 @@
-<<<<<<< Updated upstream
-# JMRAdOns
- 
-=======
 # JMR ADON'S
 
-Version : 1.1.17
+Version : 1.0.1
 
 ## Whats new :-
-* Camera Properties has been added
-* Raycast handle has been fixed
+* nothing
 
 ## Updated packages :-
-* Camera Properties
+* Orintation Copy Script
 
 ## Added packages :-
-* Leaderboard
+* Camera Properties
+* Controller Properties
+* Headset Properties
 
 ```
 Note : Please update your package from the Package Manager -> JMR Add On's -> Samples
 ```
->>>>>>> Stashed changes
+
