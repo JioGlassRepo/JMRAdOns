@@ -20,10 +20,6 @@
     "url": "https://github.com/JioGlassRepo/JMRAdOns/tree/dev.git",
     "type": "git"
   },
-  "dependencies":
-   {
-        "com.jmr.camerapropp": "https://github.com/JioGlassRepo/JMRAdOns/tree/dev.git?path=/Samples~/JMRAdons/CameraProperties"
-   },
   "samples": [
     {
       "displayName": "Camera Properties",
