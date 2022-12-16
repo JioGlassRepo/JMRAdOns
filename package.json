@@ -23,7 +23,7 @@
   "dependencies":
    {
         "com.jmr.camerapropp": "https://github.com/JioGlassRepo/JMRAdOns/tree/dev.git?path=/Samples~/JMRAdons/CameraProperties"
-   }
+   },
   "samples": [
     {
       "displayName": "Camera Properties",
@@ -40,6 +40,5 @@
       "description": "Shows how to implement a custom composite binding.",
       "path": "Samples~/JMRAdons/HeadProperties"
     }
-	
   ]
 }
