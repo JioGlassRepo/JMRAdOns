@@ -1,6 +1,6 @@
 {
   "name": "com.jmr.adons",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "displayName": "JMR Add Ons",
   "description": "This package lets you to add some addons",
   "unity": "2019.4",
@@ -19,6 +19,9 @@
   "repository": {
     "url": "https://github.com/JioGlassRepo/JMRAdOns/tree/dev.git",
     "type": "git"
+  },
+"dependencies": {
+    "com.jmr.jmrbuild": "https://github.com/JioGlassRepo/JMRAdOns.git#dev?path=/Packages/JMRBuildHandler"
   },
   "samples": [
     {

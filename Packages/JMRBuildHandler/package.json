@@ -1,0 +1,22 @@
+{
+  "name": "com.jmr.jmrbuild",
+  "version": "1.0.1",
+  "displayName": "JMR Build",
+  "description": "This package lets you to add some addons",
+  "unity": "2019.4",
+  "type":"tool",
+  "keywords": [
+    "JMR",
+    "Camera",
+	"Skybox",
+	"Controller"
+  ],
+  "author": {
+    "name": "JMR",
+    "url": "https://tesseract.in/"
+  },
+  "repository": {
+    "url": "https://github.com/JioGlassRepo/JMRAdOns/tree/dev.git",
+    "type": "git"
+  }
+}
