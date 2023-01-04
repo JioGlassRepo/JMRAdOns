@@ -1,6 +1,6 @@
 {
   "name": "com.jmr.adons",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "displayName": "JMR Add Ons",
   "description": "This package lets you to add some addons",
   "unity": "2019.4",
@@ -20,8 +20,8 @@
     "url": "https://github.com/JioGlassRepo/JMRAdOns/tree/dev.git",
     "type": "git"
   },
-"dependencies": {
-    "com.jmr.jmrbuild": "https://github.com/JioGlassRepo/JMRAdOns.git?path=/Packages/JMRBuildHandler/#dev"
+  "dependencies": {
+    "com.jmr.cameraprop": "https://github.com/VirendraVerma1/CameraProperties.git"
   },
   "samples": [
     {
