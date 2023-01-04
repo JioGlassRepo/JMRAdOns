@@ -1,6 +1,6 @@
 # JMR ADON'S
 
-Version : 1.0.7
+Version : 1.0.8
 SDK Version : 4.24.12
 
 ## Whats new :-
